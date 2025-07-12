@@ -1,0 +1,2 @@
+Flask==2.3.2
+Pygments==2.15.1
